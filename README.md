@@ -1,4 +1,4 @@
-## heyo, I'm Eli👋
+### heyo, I'm Eli👋
 I'm a B.Sc. Computer Science student and soon (october 2024) will start my M.Sc. in Computer Science.
 - 🥼 Aspiring Data Scientist.
 - 📃 I like to document almost everything that is important to me.
