@@ -8,4 +8,5 @@ I'm a B.Sc. Computer Science student and soon (october 2024) will start my M.Sc.
 
 I'm always open to new oppertunities, interesting conversations and collaboration.
 
-------------------------------------------------------------------------------------------------------
+___
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/eli-ackerman-56585030a/)
