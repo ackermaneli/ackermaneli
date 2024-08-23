@@ -1,5 +1,5 @@
 ### heyo, I'm Eli👋
-I'm a B.Sc. Computer Science student and soon (october 2024) will start my M.Sc. in Computer Science.
+I hold a B.Sc. in Computer Science and will be pursuing my M.Sc. in Computer Science starting October 2024.
 - 🥼 Aspiring Data Scientist.
 - 📃 I like to document almost everything that is important to me.
 - 📝 I'm in the process of writing my first manga.
