@@ -6,7 +6,7 @@ I hold a B.Sc. in Computer Science and am currently pursuing an M.Sc. in Compute
 - 🧳 Traveling makes me feel alive; I like the feeling of exploring and getting lost.
 - 😸 I may look normal but I meow back at cats.
 
-I'm best reached via my [linkedIn](https://www.linkedin.com/in/ackermaneli/). I'm always open to new oppertunities, interesting conversations and collaboration.
+I'm best reached via my [linkedIn](https://www.linkedin.com/in/ackermaneli/). I'm always open to new oppertunities and interesting conversations.
 
 ___
 <a href="https://www.linkedin.com/in/ackermaneli/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100"/></a>
