@@ -1,5 +1,5 @@
 ### heyo, I'm Eli👋
-I hold a B.Sc. in Computer Science and will be pursuing my M.Sc. in Computer Science starting February 2025.
+I hold a B.Sc. in Computer Science and am currently pursuing an M.Sc. in Computer Science at Ben-Gurion University of the Negev.
 - 🥼 Aspiring Data Scientist.
 - 📃 I like to document almost everything that is important to me.
 - 📝 I'm in the process of writing my first manga.
